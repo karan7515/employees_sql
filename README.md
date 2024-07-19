@@ -1,5 +1,9 @@
 # employees_sql
 SQL code for employees data analysis.
-Here I downloaded an open-source public dataset (http://www.cs.aau.dk/TimeCenter/Data/employeeTemporalDataSet.zip) containing information about employees.
-Used SQL code to analyze the dataset & then storing the obtained results in an excel file for further visualization.
+Analyzed a public dataset (http://www.cs.aau.dk/TimeCenter/Data/employeeTemporalDataSet.zip) containing information about employees using SQL.
+Stored the analysis results in Excel for further examination.
+Performed detailed statistical analysis on the data within Excel.
+Created insightful and interactive dashboards in Tableau to visualize the findings effectively.
+
  
+
